@@ -1,0 +1,9 @@
+table{
+  border: 1px solid gray;
+
+}
+
+th{
+  height: 50px;
+  text-align: left;
+}
